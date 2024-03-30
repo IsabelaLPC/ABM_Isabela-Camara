@@ -1,0 +1,3 @@
+a a_in a_max_int AvgProd AvgProd_s C_r competitiveness Cw D e exc_dem exit_entry exp expenditure expenditure_comm Export_simulation Expsh f ff Fs G IM Imitation IN int L l LINKS logY_L m m_min_int min_max_tot p Pindex prob_im prob_in sales sales_min_int TB TB_Y TEST TOT_WAGE W Y y Y_L Y_r Ys_r
+a_im a_max alpha1 alpha2 beta1 beta2 C chi Cs_r d_est d_int dshare e_0 Ehat EXP EXP_0 f_min g_d I Id Id_comp Id_country Id_sector Im_penalty IMP imps_r m_min mu n_country n_firm ni p_0 PROB prob Profits sales_min sigma_u tau theta_max v x x_ent xhat xhat_ent xi xi_1 xi_2
+comp country firm sector
